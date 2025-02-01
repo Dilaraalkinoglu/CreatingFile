@@ -13,25 +13,17 @@ namespace Dosya_Klasor
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OpenFileDialog openFileDialog1 = new OpenFileDialog();
-            openFileDialog1.Title = "Bir dosya seçin";
-            openFileDialog1.Filter = "Tüm Dosyalar|*.*|Metin Dosyalarý|*.txt|Resim Dosyalarý|*.jpg;*.png";
-
-            if (openFileDialog1.ShowDialog() == DialogResult.OK)
-            {
-                string dosyaYolu = openFileDialog1.FileName;
-                MessageBox.Show("Seçilen Dosya: " + dosyaYolu);
-            }
+            openFileDialog1.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e, SaveFileDialog saveFileDialog)
+        private void button2_Click(object sender, EventArgs e)
         {
-            saveFileDialog.ShowDialog();
+            saveFileDialog1.ShowDialog();
         }
 
-        private void button3_Click(object sender, EventArgs e,FolderBrowserDialog folderBrowserDialog)
+        private void button3_Click(object sender, EventArgs e)
         {
-            folderBrowserDialog.ShowDialog();
+            folderBrowserDialog1.ShowDialog();
         }
     }
 }

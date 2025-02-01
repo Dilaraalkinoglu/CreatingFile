@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dosya_Klasor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af33c61233dad371bf05890b7e62230b1d9b2d55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38f0efaa3b56bc1f219875d5372db351dd552cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dosya_Klasor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dosya_Klasor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

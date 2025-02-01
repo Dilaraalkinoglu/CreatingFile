@@ -14,3 +14,4 @@ C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-window
 C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.pdb
 C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\ref\Dosya_Klasor.dll
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.sourcelink.json

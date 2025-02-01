@@ -31,6 +31,9 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            openFileDialog1 = new OpenFileDialog();
+            saveFileDialog1 = new SaveFileDialog();
+            folderBrowserDialog1 = new FolderBrowserDialog();
             SuspendLayout();
             // 
             // button1
@@ -62,7 +65,10 @@
             button3.TabIndex = 2;
             button3.Text = "FolderBrowserDialog";
             button3.UseVisualStyleBackColor = true;
-           
+            // 
+            // openFileDialog1
+            // 
+            openFileDialog1.FileName = "openFileDialog1";
             // 
             // Form1
             // 
@@ -82,5 +88,8 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private OpenFileDialog openFileDialog1;
+        private SaveFileDialog saveFileDialog1;
+        private FolderBrowserDialog folderBrowserDialog1;
     }
 }
