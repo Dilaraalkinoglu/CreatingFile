@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\bin\Debug\net8.0-windows\Dosya_Klasor.exe
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\bin\Debug\net8.0-windows\Dosya_Klasor.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\bin\Debug\net8.0-windows\Dosya_Klasor.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\bin\Debug\net8.0-windows\Dosya_Klasor.dll
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\bin\Debug\net8.0-windows\Dosya_Klasor.pdb
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.Form1.resources
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.dll
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\refint\Dosya_Klasor.dll
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.pdb
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\Dosya_Klasor.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\oop2udemy\Dosya_Klasor\obj\Debug\net8.0-windows\ref\Dosya_Klasor.dll
